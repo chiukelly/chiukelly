@@ -1,7 +1,7 @@
 Hi, I’m Kelly Chiu!
 Pronouns: she/her
 
-- 🌱 I am a Computer Science major at UT Austin and will be graduating in Spring 2023. 
+- 🌱 I recently graduated from UT Austin as a Computer Science major.
 - 📫 Reach me at chiukelly3@gmail.com.
 
 <!---
